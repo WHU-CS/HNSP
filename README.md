@@ -1,7 +1,7 @@
 # HNSP
 
-This repository provides a reference implementation of HNSP proposed in "Noise-Resilient High Order Similarity Preserving Network Embedding for Social Networks",
-Zhenyu Qiu, Wenbin Hu, Jia Wu, Zhongzheng Tang, Xiaohua Jia , and Erik Combria
+This repository provides a reference implementation of HNSP proposed in "High Order Node Similarity Preserving Method for Robust Network Representation",
+Zhenyu Qiu, Jia Wu, Wenbin Hu, Bo Du, Zhongzheng Tang, Xiaohua Jia , and Erik Combria
 
 The noise in the network will affect the performance of network embedding. 
 The NSP aims to exploit node similarity to address the problem of social network
